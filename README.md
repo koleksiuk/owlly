@@ -1,6 +1,6 @@
 # Owlly
 
-**TODO: Add description**
+Simple Redis like Elixir app.
 
 ## Installation
 
